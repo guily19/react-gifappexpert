@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import toJson from 'enzyme-to-json';
-import GifGridItem from '../GifGridItem';
+import GifGridItem from '../../components/GifGridItem';
 
 describe('<GifGridItem />', () => {
 
