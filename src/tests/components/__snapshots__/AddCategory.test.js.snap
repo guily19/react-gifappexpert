@@ -4,6 +4,7 @@ exports[`AddCategory match the snapshot 1`] = `
 <form
   onSubmit={[Function]}
 >
+  <p />
   <input
     onChange={[Function]}
     type="text"

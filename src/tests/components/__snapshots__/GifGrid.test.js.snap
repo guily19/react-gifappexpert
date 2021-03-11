@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GifGrid /> tests <GifGrid /> renders correctly 1`] = `
+<Fragment>
+  <h3>
+     
+    test category
+     
+  </h3>
+  <p>
+     Loading.. 
+  </p>
+  <div
+    className="card-grid animate__animated animate__heartBeat"
+  />
+</Fragment>
+`;

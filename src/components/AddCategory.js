@@ -21,6 +21,7 @@ const AddCategory = (props) => {
   }
   return (
     <form onSubmit={handlOnSubmitForm}>
+      <p>{inputValue}</p>
       <input
         type="text"
         value={inputValue}

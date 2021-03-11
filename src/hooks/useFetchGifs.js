@@ -15,7 +15,6 @@ export const useFetchGifs = ( category ) => {
       });
     })
   }, [category])
-
+  console.log('returning state:', state);
   return state;
-
-}
+};
